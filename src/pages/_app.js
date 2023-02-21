@@ -2,7 +2,7 @@ import '@/styles/globals.css'
 import Layout from '../components/layout'
 
 export default function App({ Component, pageProps }) {
-  console.log('_app.js');
+
   // return <>Hello haha</>
   //return <Component {...pageProps} /> 
   // return <div style ={{border:'10px solid red'}}><Component {...pageProps} /> </div>
